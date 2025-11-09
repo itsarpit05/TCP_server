@@ -1,5 +1,5 @@
 # DEMO Video 
-[![Watch the video](https://drive.google.com/file/d/1eaLlMoyKppGSRfAqnO40KXdl9pk9VtxQ/view?usp=sharing)](https://drive.google.com/file/d/1W0CVmpUjIRg-Xjd6FpWwQ70QvdFZhLy_/view?usp=sharing)
+[![Watch the video](assets/screenshot/TCP-1.JPG)](https://drive.google.com/file/d/1W0CVmpUjIRg-Xjd6FpWwQ70QvdFZhLy_/view?usp=sharing)
 
 
 
