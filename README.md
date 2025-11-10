@@ -1,11 +1,11 @@
 # DEMO Video 
-[![Watch the video](https://drive.google.com/file/d/1eaLlMoyKppGSRfAqnO40KXdl9pk9VtxQ/view?usp=sharing)](https://drive.google.com/file/d/1W0CVmpUjIRg-Xjd6FpWwQ70QvdFZhLy_/view?usp=sharing)
+[![Watch the video](assets/screenshot/TCP-1.JPG)](https://drive.google.com/file/d/1W0CVmpUjIRg-Xjd6FpWwQ70QvdFZhLy_/view?usp=sharing)
 
 
 
 # TCP Chat Server
 
-This is a tiny TCP chat server written in Node.js with nothing but the built-in `net` module. Every client talks plain text over a socket—no HTTP, no frameworks, no database.
+This is a tiny TCP chat server written in Node.js with nothing but the built-in `net` module.Every client talks plain text over a socket—no HTTP, no frameworks, no database.
 
 ## Requirements
 
